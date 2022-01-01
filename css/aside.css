@@ -1,0 +1,25 @@
+aside{
+    background-color: cadetblue;
+}
+.name-img{
+    width: 150px;
+    height: 150px;
+    border-radius: 70px;
+}
+.skills_block{
+    display: flex;
+}
+.skills_progress{
+    display: flex;
+    align-items: center;
+}
+.skills_circle{
+    width: 5px;
+    height: 5px;
+    background-color: black;
+    border-radius: 2px;
+    margin: 0 20px 0 0 ;
+}
+.skills-text{
+    width: 150px;
+}
