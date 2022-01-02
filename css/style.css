@@ -1,0 +1,11 @@
+@import url(header.css);
+@import url(aside.css);
+@import url(section.css);
+@import url(footer.css);
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.main-container{
+    display: flex;
+}
