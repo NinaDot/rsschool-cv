@@ -11,11 +11,17 @@ aside{
     border-radius: 70px;
 }
 .skills_block{
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
 }
 .skills_progress{
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    align-items: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
 }
 .skills_circle{
     width: 5px;
