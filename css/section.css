@@ -2,14 +2,15 @@
   background-color: black;
   color: white;
   text-align: center;
+  text-transform: uppercase;
 }
 .section-progress {
-  background-color: grey;
+  background-color: Silver;
   width: 100px;
   height: 10px;
 }
 .section-progress_rate{
-  background-color: blue;
+  background-color: DarkCyan;
   width: 30%;
   height: 10px;
 }
@@ -22,6 +23,12 @@
   align-items: center;
   margin: 0 50px 0 50px;
 }
-.section-text {
+.block-text {
   width: 100px;
+}
+.section-text {
+  padding: 0 0 0 5%;
+}
+.code{
+padding: 0 10% 0 10%;
 }

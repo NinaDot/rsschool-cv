@@ -2,6 +2,9 @@ aside{
     background-color: cadetblue;
     text-align: center;
 }
+.name{
+    padding: 5% 0 0 0;
+}
 .name-img{
     width: 150px;
     height: 150px;
