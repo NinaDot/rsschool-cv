@@ -10,6 +10,9 @@ aside{
     height: 150px;
     border-radius: 70px;
 }
+.contact-list{
+    font-size: 25px;
+}
 .skills_block{
     display: -webkit-box;
     display: -ms-flexbox;
