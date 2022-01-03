@@ -1,0 +1,60 @@
+aside{
+    background-color: cadetblue;
+    text-align: center;
+    
+}
+.name{
+    padding: 5% 0 0 0;
+}
+.name-img{
+    width: 250px;
+    height: 250px;
+    border-radius: 120px;
+}
+.profile{
+    padding: 0 5% 0 5%;
+}
+.contact-list{
+    font-size: 25px;
+    list-style: none;
+}
+.contact-list_text{
+    font-weight: bold;
+}
+.skills_block{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.skills_progress{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+.skills_circle{
+    width: 5px;
+    height: 5px;
+    background-color: black;
+    border-radius: 4px;
+    margin: 0 15px 0 5px ;
+}
+.skills_circle_grey{
+    width: 5px;
+    height: 5px;
+    background-color: grey;
+    border-radius: 4px;
+    margin: 0 15px 0 5px ;
+}
+.skills-text{
+    width: 150px;
+}
+.contact-link{
+    text-decoration: none;
+    color: black;
+}
+.contact-link:hover {
+  color: white;
+}
