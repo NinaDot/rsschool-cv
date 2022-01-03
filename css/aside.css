@@ -13,6 +13,9 @@ aside{
 .contact-list{
     font-size: 25px;
 }
+.contact-list_text{
+    font-weight: bold;
+}
 .skills_block{
     display: -webkit-box;
     display: -ms-flexbox;
@@ -42,4 +45,14 @@ aside{
 }
 .skills-text{
     width: 150px;
+}
+.contact-link{
+    text-decoration: none;
+    color: black;
+}
+.contact-link:hover {
+  color: #C71585;
+  font-size: 30px;
+  font-weight: bold; 
+ 
 }
