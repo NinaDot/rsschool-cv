@@ -1,6 +1,7 @@
 aside{
     background-color: cadetblue;
     text-align: center;
+    
 }
 .name{
     padding: 5% 0 0 0;
@@ -9,6 +10,9 @@ aside{
     width: 250px;
     height: 250px;
     border-radius: 120px;
+}
+.profile{
+    padding: 0 5% 0 5%;
 }
 .contact-list{
     font-size: 25px;
@@ -51,7 +55,7 @@ aside{
     color: black;
 }
 .contact-link:hover {
-  color: #C71585;
+  color: white;
   font-size: 30px;
   font-weight: bold; 
  
