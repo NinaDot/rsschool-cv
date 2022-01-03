@@ -1,14 +1,25 @@
 aside{
     background-color: cadetblue;
     text-align: center;
+    
 }
 .name{
     padding: 5% 0 0 0;
 }
 .name-img{
-    width: 150px;
-    height: 150px;
-    border-radius: 70px;
+    width: 250px;
+    height: 250px;
+    border-radius: 120px;
+}
+.profile{
+    padding: 0 5% 0 5%;
+}
+.contact-list{
+    font-size: 25px;
+    list-style: none;
+}
+.contact-list_text{
+    font-weight: bold;
 }
 .skills_block{
     display: -webkit-box;
@@ -39,4 +50,11 @@ aside{
 }
 .skills-text{
     width: 150px;
+}
+.contact-link{
+    text-decoration: none;
+    color: black;
+}
+.contact-link:hover {
+  color: white;
 }
