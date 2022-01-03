@@ -1,0 +1,24 @@
+@import url(header.css);
+@import url(aside.css);
+@import url(section.css);
+@import url(footer.css);
+@import url(project.css);
+html,
+body {
+  height: 100%;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  font-size: 20px;
+}
+.main-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex: 1 0 auto;
+  width: 100%;
+}

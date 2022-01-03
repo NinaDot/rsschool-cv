@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: black;
+     flex: 0 0 auto;
+}
+.header-list{
+    list-style: none;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    padding:  0 5% 0 0;
+}
+.header-link{
+    color: white;
+    text-decoration: none;
+}
+.header-link:hover{
+    color: aquamarine;
+}
